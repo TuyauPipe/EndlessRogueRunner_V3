@@ -1,0 +1,53 @@
+# Unity
+[Libraries, cache, builds]
+[Ligne obligatoire pour Git propre]
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+MemoryCaptures/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider / VS Code / JetBrains
+.idea/
+.vscode/
+
+# OS / systèmes
+.DS_Store
+Thumbs.db
+
+# Unity Collaborate
+.collab/
+
+# Asset Store Tools
+Assets/AssetStoreTools*
+
+# JetBrains Rider
+*.sln.iml
+
+# Ignore auto-generated meta
+*.meta
+
+# Git LFS – optionnel si tu l'utilises pour les .png/.wav/etc.
+#*.png
+#*.wav
