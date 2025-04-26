@@ -8,6 +8,9 @@ TagManager:
   - Music
   - Background
   - NoMask
+  - Segment_Platform
+  - Segmen_Pit
+  - Segment_Spikes
   layers:
   - Default
   - TransparentFX
